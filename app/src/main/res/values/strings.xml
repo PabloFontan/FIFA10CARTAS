@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">FIFA</string>
+
+    <string name="mbape">Mbappé</string>
+    <string name="messi">Messi</string>
+    <string name="haaland">Haaland</string>
+    <string name="rodri">Rodri</string>
+    <string name="griezmann">Griezmann</string>
+    <string name="salah">Salah</string>
+    <string name="kane">Kane</string>
+    <string name="lewandoski">Lewandoski</string>
+    <string name="vinicius">Vinicius</string>
+    <string name="osimhen">Osimhen</string>
+
+
+    <string name="puntuacion91">91</string>
+    <string name="puntuacion90">90</string>
+    <string name="puntuacion89">89</string>
+    <string name="puntuacion88">88</string>
+    <string name="puntuacion87">87</string>
+
+
+    <string name="delantero">DC</string>
+    <string name="segundoDelantero">SD</string>
+    <string name="extremoDcho">ED</string>
+    <string name="extremoIzq">EI</string>
+    <string name="pivote">MCD</string>
+
+
+    <string name="ritmo97">97</string>
+    <string name="ritmo95">95</string>
+    <string name="ritmo90">90</string>
+    <string name="ritmo89">89</string>
+    <string name="ritmo80">80</string>
+    <string name="ritmo75">75</string>
+    <string name="ritmo69">69</string>
+    <string name="ritmo58">58</string>
+
+
+    <string name="tiro93">93</string>
+    <string name="tiro91">91</string>
+    <string name="tiro88">88</string>
+    <string name="tiro87">87</string>
+    <string name="tiro86">86</string>
+    <string name="tiro82">82</string>
+    <string name="tiro73">73</string>
+
+
+    <string name="pase90">90</string>
+    <string name="pase87">87</string>
+    <string name="pase84">84</string>
+    <string name="pase81">81</string>
+    <string name="pase80">80</string>
+    <string name="pase78">78</string>
+    <string name="pase66">66</string>
+
+
+    <string name="regate94">94</string>
+    <string name="regate92">92</string>
+    <string name="regate90">90</string>
+    <string name="regate88">88</string>
+    <string name="regate87">87</string>
+    <string name="regate83">83</string>
+    <string name="regate80">80</string>
+
+
+    <string name="defensa85">85</string>
+    <string name="defensa58">58</string>
+    <string name="defensa49">49</string>
+    <string name="defensa45">45</string>
+    <string name="defensa44">44</string>
+    <string name="defensa42">42</string>
+    <string name="defensa36">36</string>
+    <string name="defensa33">33</string>
+    <string name="defensa29">29</string>
+
+
+    <string name="fisico88">88</string>
+    <string name="fisico84">84</string>
+    <string name="fisico83">83</string>
+    <string name="fisico82">82</string>
+    <string name="fisico78">78</string>
+    <string name="fisico75">75</string>
+    <string name="fisico76">76</string>
+    <string name="fisico68">68</string>
+    <string name="fisico64">64</string>
+
+
+
+</resources>
